@@ -34,4 +34,18 @@
 
 
 
+## ✔️GitHub Analytics
+
+<p align="left" >
+<a href="https://github.com/senasahapoglu">
+ <img height="150em" align:"center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=senasahapoglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/senasahapoglu"><img height="150em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=senasahapoglu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=senasahapoglu&label=Profile%20views&color=0e75b6&style=flat" alt="senasahapoglu" /></p>
+
+
+
+
 
